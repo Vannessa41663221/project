@@ -8,7 +8,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-<div class="w-screen h-screen">s
+<div class="w-screen h-screen">
     @yield('content')
 </div>
 </body>
